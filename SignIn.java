@@ -1,9 +1,7 @@
-public class asldkjhosahdiopusahbdpiksajbdiksnbjaklp;dnQ
-ASD
-SA
-DSA
-D
-SAD
-AS
-D
-SA
+public class SignIn{
+	String name;
+	void sign(){
+		System.out.println("Ç©µ½¹¦ÄÜ");
+		}
+	}
+
